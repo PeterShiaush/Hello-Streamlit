@@ -15,3 +15,6 @@
 開啟 Colab：在檔案清單中，點選副檔名為 .ipynb 的筆記本檔案，接著點擊上方的 「Open in Colab」 按鈕。
 儲存副本 (最關鍵步驟)：進入 Colab 後，請點選左上角「檔案」 > 「在雲端硬碟儲存副本」。
 修改檔名，學習HelloStreamlit.ipynb
+
+--
+最後成果參考: https://hello-app-6nuygye3oggsqs5s7ksi6q.streamlit.app/
