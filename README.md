@@ -1,9 +1,9 @@
 ## 	python檔案，發佈在 Streamlit的基本練習
 
-### 由 colab 建立 python 與 requirements.txt
-### 發佈在 Streamlit，
-### 創造 QR code，手機掃描 QR code
-### 由手機觀看此python所呈現的網頁網頁
+1. 由 colab 建立 python 與 requirements.txt
+2. 發佈在 Streamlit，
+3. 創造 QR code，手機掃描 QR code
+4. 由手機觀看此python所呈現的網頁網頁
 
 ---
 這是一個非常完整的實作流程，為了讓學生在 90 分鐘內順利完成從「複製範本」，修改檔名，
